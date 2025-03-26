@@ -1,5 +1,4 @@
-# threat_in_retail
-# Threat Detection in Retail Stores - ML Model Documentation
+# Threat Detection in Retail Stores
 
 ## Overview
 The Threat Detection ML model is designed to identify potential threats in retail store environments using advanced computer vision and deep learning techniques. The model analyzes surveillance footage in real time, detecting suspicious activities, such as weapon detection, aggressive behavior, or unauthorized access.
