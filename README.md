@@ -44,7 +44,6 @@ mAP@50: 0.772
 mAP@50-95: 0.372
 
 ## Deployment Status
-- **Result Examples**: The trained model's outputs and example results are available in a folder.
 - **Future Plans**: Potential deployment and integration with retail security systems.
 
 
